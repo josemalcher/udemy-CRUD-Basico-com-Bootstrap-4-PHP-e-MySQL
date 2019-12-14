@@ -21,7 +21,7 @@ Criando um Sistema do zero onde você vai Inserir,editar e excluir valores e com
 
 ## <a name="parte1">1 - Base teórica dos requisitos do curso</a>
 
-
+- Introdução ao Bootstrap 4, php e Mysql
 
 [Voltar ao Índice](#indice)
 
@@ -30,6 +30,10 @@ Criando um Sistema do zero onde você vai Inserir,editar e excluir valores e com
 
 ## <a name="parte2">2 - Organizando nossa área de trabalho</a>
 
+- preparação do editor
+- XAMPP
+- Bootstrap com CDN
+- Bootstrap Local
 
 
 [Voltar ao Índice](#indice)
